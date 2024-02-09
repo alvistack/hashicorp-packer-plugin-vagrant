@@ -1,0 +1,2 @@
+packer-plugin-vagrant source: file-without-copyright-information
+packer-plugin-vagrant source: no-debian-changes

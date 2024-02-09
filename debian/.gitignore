@@ -1,0 +1,6 @@
+*.substvars
+*debhelper*
+.debhelper
+files
+packer-plugin-vagrant
+tmp
