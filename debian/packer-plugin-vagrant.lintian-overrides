@@ -1,0 +1,6 @@
+packer-plugin-vagrant: copyright-without-copyright-notice
+packer-plugin-vagrant: initial-upload-closes-no-bugs
+packer-plugin-vagrant: no-manual-page
+packer-plugin-vagrant: shared-library-lacks-prerequisites
+packer-plugin-vagrant: statically-linked-binary
+packer-plugin-vagrant: zero-byte-file-in-doc-directory
